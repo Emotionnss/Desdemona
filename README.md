@@ -137,7 +137,7 @@ These games helped shape the overall direction and atmosphere of the project.
 
 ### Gameplay Video
 
-[Watch Gameplay Video](#https://youtu.be/wAzDlM5cTgI)
+(#[Watch Demo Trailer](https://youtu.be/wAzDlM5cTgI))
 
 ---
 
